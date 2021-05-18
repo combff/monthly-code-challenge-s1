@@ -1,3 +1,4 @@
+package Solution.November;
 
 public class November2 { // 이진변환 반복하기
 	public int[] solution(String s) {

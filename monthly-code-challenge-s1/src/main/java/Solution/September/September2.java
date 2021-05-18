@@ -1,3 +1,4 @@
+package Solution.September;
 
 public class September2 { // 삼각 달팽잉
 

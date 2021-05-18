@@ -1,3 +1,4 @@
+package Solution.October;
 
 
 public class October1 { // 3진법 뒤집기

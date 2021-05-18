@@ -1,3 +1,4 @@
+package Solution.October;
 
 
 public class October2 { // 쿼드 압축 후 개수 세기

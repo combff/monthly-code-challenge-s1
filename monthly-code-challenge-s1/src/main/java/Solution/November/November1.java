@@ -1,3 +1,4 @@
+package Solution.November;
 
 public class November1 {// 내적
 	public int solution(int[] a, int[] b) {
